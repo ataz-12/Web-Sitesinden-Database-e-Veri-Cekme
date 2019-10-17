@@ -1,0 +1,10 @@
+C:\Users\Ahmet Akyüz\Desktop\Staj\C_B_IRAN\C_B_IRAN Form\C_B_IRAN Form\bin\Debug\C_B_IRAN Form.exe.config
+C:\Users\Ahmet Akyüz\Desktop\Staj\C_B_IRAN\C_B_IRAN Form\C_B_IRAN Form\bin\Debug\C_B_IRAN Form.exe
+C:\Users\Ahmet Akyüz\Desktop\Staj\C_B_IRAN\C_B_IRAN Form\C_B_IRAN Form\bin\Debug\C_B_IRAN Form.pdb
+C:\Users\Ahmet Akyüz\Desktop\Staj\C_B_IRAN\C_B_IRAN Form\C_B_IRAN Form\obj\Debug\C_B_IRAN Form.csprojAssemblyReference.cache
+C:\Users\Ahmet Akyüz\Desktop\Staj\C_B_IRAN\C_B_IRAN Form\C_B_IRAN Form\obj\Debug\C_B_IRAN_Form.Form1.resources
+C:\Users\Ahmet Akyüz\Desktop\Staj\C_B_IRAN\C_B_IRAN Form\C_B_IRAN Form\obj\Debug\C_B_IRAN_Form.Properties.Resources.resources
+C:\Users\Ahmet Akyüz\Desktop\Staj\C_B_IRAN\C_B_IRAN Form\C_B_IRAN Form\obj\Debug\C_B_IRAN Form.csproj.GenerateResource.cache
+C:\Users\Ahmet Akyüz\Desktop\Staj\C_B_IRAN\C_B_IRAN Form\C_B_IRAN Form\obj\Debug\C_B_IRAN Form.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Akyüz\Desktop\Staj\C_B_IRAN\C_B_IRAN Form\C_B_IRAN Form\obj\Debug\C_B_IRAN Form.exe
+C:\Users\Ahmet Akyüz\Desktop\Staj\C_B_IRAN\C_B_IRAN Form\C_B_IRAN Form\obj\Debug\C_B_IRAN Form.pdb

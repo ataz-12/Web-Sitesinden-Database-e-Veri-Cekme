@@ -1,0 +1,21 @@
+C:\Users\ahmet.akyuz\Desktop\C_B_IRAN\C_B_IRAN\bin\Debug\C_B_IRAN.exe.config
+C:\Users\ahmet.akyuz\Desktop\C_B_IRAN\C_B_IRAN\bin\Debug\C_B_IRAN.exe
+C:\Users\ahmet.akyuz\Desktop\C_B_IRAN\C_B_IRAN\bin\Debug\C_B_IRAN.pdb
+C:\Users\ahmet.akyuz\Desktop\C_B_IRAN\C_B_IRAN\obj\Debug\C_B_IRAN.csprojResolveAssemblyReference.cache
+C:\Users\ahmet.akyuz\Desktop\C_B_IRAN\C_B_IRAN\obj\Debug\C_B_IRAN.exe
+C:\Users\ahmet.akyuz\Desktop\C_B_IRAN\C_B_IRAN\obj\Debug\C_B_IRAN.pdb
+C:\Users\ahmet.akyuz\Desktop\C_B_IRAN\C_B_IRAN\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ahmet.akyuz\Desktop\Çalışmalarım\6.Hafta\C_B_IRAN\C_B_IRAN\bin\Debug\C_B_IRAN.exe.config
+C:\Users\ahmet.akyuz\Desktop\Çalışmalarım\6.Hafta\C_B_IRAN\C_B_IRAN\obj\Debug\C_B_IRAN.exe
+C:\Users\ahmet.akyuz\Desktop\Çalışmalarım\6.Hafta\C_B_IRAN\C_B_IRAN\obj\Debug\C_B_IRAN.pdb
+C:\Users\ahmet.akyuz\Desktop\Çalışmalarım\6.Hafta\C_B_IRAN\C_B_IRAN\bin\Debug\C_B_IRAN.exe
+C:\Users\ahmet.akyuz\Desktop\Çalışmalarım\6.Hafta\C_B_IRAN\C_B_IRAN\bin\Debug\C_B_IRAN.pdb
+C:\Users\ahmet.akyuz\Desktop\Çalışmalarım\6.Hafta\C_B_IRAN\C_B_IRAN\obj\Debug\C_B_IRAN.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet Akyüz\Desktop\Staj\C_B_IRAN\C_B_IRAN\bin\Debug\C_B_IRAN.exe.config
+C:\Users\Ahmet Akyüz\Desktop\Staj\C_B_IRAN\C_B_IRAN\bin\Debug\C_B_IRAN.exe
+C:\Users\Ahmet Akyüz\Desktop\Staj\C_B_IRAN\C_B_IRAN\bin\Debug\C_B_IRAN.pdb
+C:\Users\Ahmet Akyüz\Desktop\Staj\C_B_IRAN\C_B_IRAN\obj\Debug\C_B_IRAN.csprojAssemblyReference.cache
+C:\Users\Ahmet Akyüz\Desktop\Staj\C_B_IRAN\C_B_IRAN\obj\Debug\C_B_IRAN.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Akyüz\Desktop\Staj\C_B_IRAN\C_B_IRAN\obj\Debug\C_B_IRAN.csproj.CopyComplete
+C:\Users\Ahmet Akyüz\Desktop\Staj\C_B_IRAN\C_B_IRAN\obj\Debug\C_B_IRAN.exe
+C:\Users\Ahmet Akyüz\Desktop\Staj\C_B_IRAN\C_B_IRAN\obj\Debug\C_B_IRAN.pdb
